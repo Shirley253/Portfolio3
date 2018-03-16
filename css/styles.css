@@ -20,3 +20,10 @@ div about {
     margin-right: auto;
     width: 25%;
 }
+img {
+  align: left
+}
+
+div daisy {
+  align: right
+}
